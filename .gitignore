@@ -1,0 +1,7 @@
+/#init.el#
+.#init.el
+auto-save-list/
+elpa/
+init.el~
+session*
+
